@@ -1,4 +1,4 @@
-#iinclude <stdio>
+#include <stdio>
 
 /**
  * main - print lower and upper using putcha
@@ -12,13 +12,13 @@ int main(void)
 
 	while (lower <= 'z')
 	{
-		putchar(lower);
+		putchar (lower);
 		lower++;
 	}
 
 	while (upper <= 'z')
 	{
-		putchar(upper);
+		putchar (upper);
 		upper++;
 	}
 
