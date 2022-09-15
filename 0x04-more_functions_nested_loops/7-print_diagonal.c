@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - print character "\" n times
+ * print_diagonal - print character n times
  * @n: number of character to draw
  */
 
